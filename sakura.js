@@ -899,7 +899,7 @@ var Vector3 = {};
 
       // 恋爱计时器
       (function () {
-        const startDate = new Date("2026/3/8 18:35");
+        const startDate = new Date("2025/11/2 00:00");
         const timeDisplay = document.getElementById("time-display");
 
         function updateTimer() {
